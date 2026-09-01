@@ -1,5 +1,4 @@
 // manejo de micro estados de un personaje y sus animaciones
-// FALTA resolver bien la transicion entre estados (por ahora test con teclado)
 // update v2 - nuevas lineas comentadas con #NEW
 
 let personajeF = [];  //arreglo sin tipo ni dimension  //3
